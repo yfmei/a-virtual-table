@@ -21,7 +21,7 @@
 </template>
 
 <script>
-import throttle from 'lodash/throttle'
+import { throttle } from 'lodash-es'
 import Checkbox from 'ant-design-vue/lib/checkbox'
 import Table from 'ant-design-vue/lib/table'
 

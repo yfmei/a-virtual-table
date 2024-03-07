@@ -52,6 +52,7 @@
     "vue-template-compiler": "^2.6.10"
   },
   "peerDependencies": {
-    "ant-design-vue": "^1.7.8"
+    "ant-design-vue": "^1.7.8",
+    "lodash-es": "^4.17.21"
   }
 }

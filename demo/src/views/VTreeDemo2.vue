@@ -42,7 +42,7 @@
 
 <script>
 import AVirtualTable, { AVirtualTree } from 'a-virtual-table'
-import cloneDeep from 'lodash/cloneDeep'
+import { cloneDeep } from 'lodash-es'
 import datamap from '../datamap.json'
 
 export default {
